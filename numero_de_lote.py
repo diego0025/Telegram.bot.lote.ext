@@ -52,4 +52,4 @@ tramites()
 lote = driver.find_element(By.XPATH, '//*[@id="mainWindow"]/div/div/section/div[2]/form/div[1]/h3').text
 print(lote)
 
-driver.quit()
+#driver.quit()
